@@ -1,0 +1,3 @@
+{
+    "features": "<script>alert('XSS')</script>"
+}
