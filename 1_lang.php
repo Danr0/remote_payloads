@@ -1,3 +1,2 @@
 <?php
-readfile("index.php");
-  //phpinfo();
+  phpinfo();
